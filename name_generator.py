@@ -1,4 +1,7 @@
-# Translated from name_generator.js, https://donjon.bin.sh/code/name/ by Quatch@gmail.com, 2021-07-19
+##########################################################################
+# name_generator.py
+# Translated from name_generator.js, https://donjon.bin.sh/code/name/ by Quatch (gmail.com), 2021-07-19
+# Released to the public domain: http://creativecommons.org/publicdomain/zero/1.0/
 
 # To use:
 #   [opt] Provide 'egyptian_set.js' from https://donjon.bin.sh/code/name/egyptian_set.js
